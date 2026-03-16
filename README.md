@@ -39,8 +39,6 @@ I'm a 12th-grade student and a passionate developer who loves bringing ideas to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiruRino&theme=radical" alt="JB's GitHub Streak" />
 </div>
 
-> **Note:** Don't forget to replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub handle to make the stats work!
-
 ---
 
 ### 📫 How to reach me
