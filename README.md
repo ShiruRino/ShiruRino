@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+ShiruRino!;12th+Grade+Student+🎓;A+Passionate+Developer+🚀"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Muhammad+Jibran+Al+Fabian!;12th+Grade+Student+🎓;A+Passionate+Developer+🚀"
   />
 </div>
 
