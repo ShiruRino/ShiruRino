@@ -32,11 +32,11 @@ I'm a 12th-grade student and a passionate developer who loves bringing ideas to 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="JB's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiruRino&show_icons=true&theme=radical" alt="JB's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="JB's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiruRino&theme=radical" alt="JB's GitHub Streak" />
 </div>
 
 > **Note:** Don't forget to replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub handle to make the stats work!
@@ -45,5 +45,5 @@ I'm a 12th-grade student and a passionate developer who loves bringing ideas to 
 
 ### 📫 How to reach me
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+* **Email:** [your-email@example.com](mailto:tigugg654@gmail.com)
+* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/jbfab._)
