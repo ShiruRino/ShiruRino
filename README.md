@@ -28,6 +28,7 @@
 - 🌍 Wanna see what I've built? 👉 **[Check out my portfolio](https://shirurino.github.io)**
 - 📫 Reach me at **tigugg654@gmail.com**
 - ⚡ Fun fact: *I code, therefore I debug* 🐛
+- ✨ README template inspired by **[raflyrzp](https://github.com/raflyrzp)**
 
 <br clear="both" />
 <br />
