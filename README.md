@@ -56,13 +56,13 @@
 <div align="center">
 
   <h3>🖼️ Frontend 🖼️</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap" /><br />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,vue" /><br />
 
   <h3>🔧 Backend & Mobile 🔧</h3>
   <img src="https://skillicons.dev/icons?i=php,laravel,flutter" /><br />
 
   <h3>💾 Database 💾</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br />
 
   <h3>🛠️ Tools 🛠️</h3>
   <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman" /><br />
